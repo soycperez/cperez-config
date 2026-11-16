@@ -1,0 +1,11 @@
+build:
+  version: "2.1"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Cherryl Pankaj - QA Lead"
+    email: "{cipher}7f71a9478982f9aed6276d51df2b90750cc313279b9200e12779a6a723bf9bd8d806a9d0c4e9295813b909d12694e8f9"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267
